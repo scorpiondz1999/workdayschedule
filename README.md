@@ -3,7 +3,7 @@ This is a simple work day calendar application that allows a user to save events
 
 Websites
 website :https://scorpiondz1999.github.io/workdayschedule/
-Functionality
+Functionality :
 When the planner is openned, the current day is displayed at the top of the calendar
 When scrolled down, the user is presented with time blocks for standard business hours (from 9AM to 6PM)
 When the user views the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
@@ -19,3 +19,4 @@ CSS
 Bootstrap
 jQuery
 Moment.js
+![2021-10-24 (1)](https://user-images.githubusercontent.com/84550325/138617210-fb95074f-c67c-4332-bb0e-fa9c5195ce0d.png)
